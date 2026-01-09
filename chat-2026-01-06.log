@@ -1,0 +1,4 @@
+[2026-01-06 21:17:34] local.INFO: Private message sent {"message_id":1,"sender_id":2,"receiver_id":1,"content_preview":"hello","timestamp":"2026-01-06T21:17:34.104487Z"} 
+[2026-01-06 21:18:08] local.INFO: Private message sent {"message_id":2,"sender_id":1,"receiver_id":2,"content_preview":"okay xup","timestamp":"2026-01-06T21:18:08.249767Z"} 
+[2026-01-06 21:19:24] local.INFO: User joined group {"user_id":2,"user_name":"Kofi Asante","group_id":1,"group_name":"Class","timestamp":"2026-01-06T21:19:24.229709Z"} 
+[2026-01-06 21:19:41] local.INFO: Group message sent {"message_id":3,"sender_id":2,"group_id":1,"content_preview":"well we are good and will forever be great","timestamp":"2026-01-06T21:19:41.730832Z"} 

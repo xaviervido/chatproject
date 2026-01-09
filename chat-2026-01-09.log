@@ -1,0 +1,5 @@
+[2026-01-09 22:22:36] local.INFO: Private message sent {"message_id":1,"sender_id":1,"receiver_id":3,"content_preview":"Hello xavi","timestamp":"2026-01-09T22:22:36.824018Z"} 
+[2026-01-09 22:22:52] local.INFO: Private message sent {"message_id":2,"sender_id":1,"receiver_id":3,"content_preview":"this is a test transmission","timestamp":"2026-01-09T22:22:52.134008Z"} 
+[2026-01-09 22:31:22] local.INFO: Private message sent {"message_id":3,"sender_id":1,"receiver_id":3,"content_preview":"do you read ??","timestamp":"2026-01-09T22:31:22.936338Z"} 
+[2026-01-09 22:32:09] local.INFO: Private message sent {"message_id":4,"sender_id":3,"receiver_id":1,"content_preview":"yes i read","timestamp":"2026-01-09T22:32:09.404300Z"} 
+[2026-01-09 22:32:11] local.INFO: Private message sent {"message_id":5,"sender_id":3,"receiver_id":1,"content_preview":"copy?","timestamp":"2026-01-09T22:32:11.178701Z"} 
